@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: /Resume/
+    url: /resume/
   - title: "Data Wrangling Projects"
     url: /data-wrangling/
   - title: "Spatial Analyses" 
