@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : Tess Hooper
 title_separator          : "-"
 name                     : "Your Name"
-description              : "Data Science Portfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Environmental Data Science"
+url                      : # the base hostname & protocol for your site e.g. "https://tessomara.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : Tess Hooper
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Your Location"
